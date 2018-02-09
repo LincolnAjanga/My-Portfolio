@@ -1,0 +1,45 @@
+
+body{
+	background: url("/home/lincoln/Desktop/muturi254.github.io/img/castello.jpg");
+	/*background-color: #525252*/
+}
+
+
+.intro{
+	font: noto sans regular;
+	/*text-decoration: underline;*/
+	text-align: center;
+	color: white;
+}
+
+.intro-2{
+	text-align: center;
+	text-decoration: underline;
+}
+
+
+p{
+	text-align: center;
+
+}
+
+/*img{
+	position: center;
+	height: 500px;
+	width: 450px
+
+}*/
+.jumbotron{
+	background-color: rgba(150,0,200,15);
+	color: #ffffff
+}
+.ace{
+	text-transform: uppercase;
+	font-weight: 5;
+	color: red
+}
+a{
+	alignment-baseline: center;
+
+}
+
